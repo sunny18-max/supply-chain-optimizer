@@ -76,26 +76,22 @@ Top 5 Shipments:
 1. F1 → C3 (P2): 450 units
 2. F2 → C1 (P1): 500 units
 3. F3 → C2 (P3): 300 units
+
+
 Dependencies 📦
 Python 3.8+
-
 PuLP (Linear Programming)
-
 Pandas (Data Processing)
-
 Matplotlib (Visualization)
-
 NumPy (Numerical Operations)
+
 
 Contributing 🤝
 Pull requests are welcome! For major changes, please open an issue first.
-
-
 Optimize your supply chain today! ✨
 
 
 ### Key Features of This README:
-
 1. **Professional Formatting**: Shields badges, clean sections
 2. **Visual Appeal**: Includes placeholder spots for screenshots
 3. **Comprehensive Documentation**: Covers all user needs
