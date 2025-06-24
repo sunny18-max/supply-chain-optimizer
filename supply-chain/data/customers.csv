@@ -1,0 +1,11 @@
+customer_id,region,priority_demand_category,service_level_agreement
+CUS1,New York Metro,Electronics,Next-Day
+CUS2,San Francisco Bay Area,Electronics,Same-Day
+CUS3,Chicago Metro,Home Goods,2-Day
+CUS4,Dallas-Fort Worth,Apparel,Standard
+CUS5,Miami Metro,Grocery,Next-Day
+CUS6,Atlanta Metro,Home Goods,2-Day
+CUS7,Seattle Metro,Electronics,Same-Day
+CUS8,Denver Metro,Apparel,Standard
+CUS9,Boston Metro,Grocery,Next-Day
+CUS10,Los Angeles Metro,Electronics,Same-Day

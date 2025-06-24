@@ -1,0 +1,21 @@
+facility_id,location,type,operational_cost
+FC1,Seattle,Mega Fulfillment Center,50000
+FC2,Los Angeles,Regional Hub,45000
+FC3,Chicago,Sortation Center,40000
+FC4,Dallas,Cross-Dock Facility,38000
+FC5,New York,Last-Mile Station,42000
+FC6,Atlanta,Prime Now Hub,35000
+FC7,Phoenix,Regional Hub,37000
+FC8,Houston,Mega Fulfillment Center,48000
+FC9,Denver,Sortation Center,39000
+FC10,Boston,Last-Mile Station,41000
+FC11,Miami,Cross-Dock Facility,36000
+FC12,San Francisco,Regional Hub,47000
+FC13,Detroit,Sortation Center,38000
+FC14,Minneapolis,Last-Mile Station,40000
+FC15,Philadelphia,Cross-Dock Facility,37000
+FC16,Charlotte,Regional Hub,39000
+FC17,Orlando,Prime Now Hub,35000
+FC18,Austin,Mega Fulfillment Center,49000
+FC19,Portland,Regional Hub,44000
+FC20,Raleigh,Sortation Center,37000

@@ -1,0 +1,6 @@
+product_id,category,weight,is_perishable,value
+P1,Electronics,0.5,FALSE,999
+P2,Grocery,2.0,TRUE,5
+P3,Home Goods,15.0,FALSE,200
+P4,Apparel,0.8,FALSE,50
+P5,Furniture,30.0,FALSE,500
