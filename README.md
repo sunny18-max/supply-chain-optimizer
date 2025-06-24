@@ -100,12 +100,4 @@ Optimize your supply chain today! ✨
 4. **Technical Details**: Clear dependency requirements
 5. **Actionable Instructions**: Copy-paste ready commands
 
-### Recommended Next Steps:
 
-1. Create a `docs/` folder with:
-   - `supply_chain_demo.png` (screenshot of your visualization)
-   - `cost_savings.png` (example output chart)
-
-2. Add a `LICENSE` file (MIT recommended for open source)
-
-3. Update the GitHub repo link in the clone command
