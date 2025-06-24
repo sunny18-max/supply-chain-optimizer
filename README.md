@@ -23,12 +23,14 @@ An optimization system that reduces logistics costs by 15-20% using linear progr
    git clone https://github.com/yourusername/supply-chain-optimizer.git
    cd supply-chain-optimizer
 2. Create and activate a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # Linux/Mac
+   venv\Scripts\activate    # Windows
 
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate    # Windows
 3. Install dependencies:
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 Usage 🚀
 1. Prepare your CSV files in the data/ directory:
