@@ -6,7 +6,8 @@
 
 An optimization system that reduces logistics costs by 15-20% using linear programming. Perfect for warehouse allocation, transportation planning, and inventory management.
 
-![Supply Chain Visualization](docs/supply_chain_demo.png) *(Example visualization from the optimizer)*
+![Supply Chain Visualization]![image](https://github.com/user-attachments/assets/cf51725c-b2da-4a1f-9fb7-438cdca78f94)
+
 
 ## Features ✨
 
